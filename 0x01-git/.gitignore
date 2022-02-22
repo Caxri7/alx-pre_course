@@ -1,3 +1,3 @@
-/root files
-Globally if you are an administrator
+
+
 Gain additional control over what can and can’t be pushed to your repository by using regular expressions to reject pushes based on commit contents, branch names or file details.
